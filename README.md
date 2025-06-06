@@ -53,4 +53,4 @@ This task successfully demonstrates how to integrate external APIs with Python a
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/81faa581-8083-4ceb-84b1-6d63448cdd61)
